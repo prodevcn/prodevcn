@@ -17,7 +17,7 @@
     <li>Team contributor familiar with the agile and remote work culture</li>
   </ul>
   
-  <strong>👯 Goals</strong>
+  <strong>🤔 Goals</strong>
   <ul>
     <li>
       Contributor of <a href="https://github.com/meta-dev-org">Meta Dev Org</a> and <a href="https://github.com/pro-crypto-bots">Crypto Bots</a>
@@ -40,7 +40,7 @@
     <li>Hybrid mobile application built with React Native and Flutter</li>
   </ul>
   
-  <table align="center" width="100%" style="border: 1px solid">
+  <table width="100%" style="border: 1px solid">
     <thead align="center">
       <tr style="border: 1px solid">
         <td style="border: 1px solid">💻</td>
@@ -108,6 +108,78 @@
     </tbody>
   </table>
 </p>
+<h2><strong>🌱 Experiences</strong></h2>
+
+<table align="center" style="border: 1px solid">
+  <thead align="center">
+    <tr align="center">
+      <th align="center" style="border: 1px solid">Antmons</th>
+      <th align="center" style="border: 1px solid">BreadwinnersNFT</th>
+      <th align="center" style="border: 1px solid">EZ.NFT</th>
+      <th align="center" style="border: 1px solid">Riot Racers</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td style="border: 1px solid">
+        <a href="https://antmons.com/">
+          <img src="./img/antmons.jpg" width="200">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://breadwinnersnft.io">
+          <img src="./img/breadwinner.jpg" width="200">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://ez-nft.io/">
+          <img src="./img/ez.jpg" width="200">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://riotracers.com/">
+          <img src="./img/riot.jpg" width="200">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center" style="border: 1px solid">
+  <thead align="center">
+    <tr align="center">
+      <th align="center" style="border: 1px solid">Robotos Art</th>
+      <th align="center" style="border: 1px solid">HighRollerNFT</th>
+      <th align="center" style="border: 1px solid">Spherium.finance</th>
+      <th align="center" style="border: 1px solid">Tired Troop</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td style="border: 1px solid">
+        <a href="https://robotos.art">
+          <img src="./img/robotos.jpg" width="200">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://highrollersnft.com/">
+          <img src="./img/rollers.jpg" width="200">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://spherium.finance/">
+          <img src="./img/spherium.jpg" width="200">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://tiredtroop.io/">
+          <img src="./img/tired.jpg" width="200">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **prodevcn/prodevcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
