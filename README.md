@@ -1,13 +1,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-cn.corestar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cn.corestar@gmail.com)](mailto:cn.corestar@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/youlei)](https://t.me/youlei)
+
 <h2 align="center">
   <strong>
     🥷 Full stack software engineer (🔗blockchain / 🌐web / 📱mobile)
   </strong>
 </h2>
 
-<img src="./img/banner.webp" width="100%" height="100%" />
-<p align="center">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=prodevcn&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodevcn&hide=TeX&layout=compact)
   
 </p>
 
@@ -187,5 +188,3 @@
   </tbody>
 </table>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=prodevcn&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodevcn&hide=TeX&layout=compact)
