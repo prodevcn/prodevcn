@@ -2,20 +2,42 @@
 <hr>
 <img src="./img/banner.webp" width="100%" height="100%" />
 <hr>
-<h2>🖊️ Description</h2>
+<h2>
+  <strong>🖊️ Description</strong>
+</h2>
 <p>
   ✨ Full-stack developer specialized in not only web2 and hybrid mobile application development but also web3 development.
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>
+      Passionate crypto learner and creator of web3 projects such as De-fi, Game-fi, NFT
+    </li>
+    <li>
+      Experienced full-stack developer of web2 and mobile application development.
+    </li>
+    <li>Team contributor familiar with the agile and remote work culture</li>
   </ul>
-  <strong>⚡Expertise</strong>
-  <br>
+  
+  <strong>👯 Goals</strong>
+  <ul>
+    <li>
+      Contributor of <a href="https://github.com/meta-dev-org">Meta Dev Org</a> and <a href="https://github.com/pro-crypto-bots">Crypto Bots</a>
+    </li>
+    <li>I love reading book and learning new technologies and innovative ideas</li>
+    <li>Enthusiastic contributor for open source code and non-profit projects</li>
+  </ul>
+  
+  <strong>🔭Expertise</strong>
   <ul>
     <li>Writing solidity smart contracts for EVM compatible chains and Rust program for Solana.</li>
     <li>Developing web front-end, back-end, and RESTful API</li>
     <li>Developing hybrid mobile application with a clean and attractive designs.</li>
+  </ul>
+
+  <strong>⚡Specialization</strong>
+  <ul>
+    <li>ERC-20, ERC-721, ERC-1155, EIP2535, SPL </li>
+    <li>NFT marketplace, TokenSwap, wallets, bots for DEX and CEX</li>
+    <li>Hybrid mobile application built with React Native and Flutter</li>
   </ul>
   
   <table align="center" width="100%" style="border: 1px solid">
