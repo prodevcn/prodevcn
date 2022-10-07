@@ -1,27 +1,33 @@
-<h2 align="center">🥷 Full stack software engineer (🔗blockchain / 🌐web / 📱mobile)</h2>
-<hr>
+[![Gmail Badge](https://img.shields.io/badge/-cn.corestar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cn.corestar@gmail.com)](mailto:cn.corestar@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/youlei)](https://t.me/youlei)
+<h2 align="center">
+  <strong>
+    🥷 Full stack software engineer (🔗blockchain / 🌐web / 📱mobile)
+  </strong>
+</h2>
+
 <img src="./img/banner.webp" width="100%" height="100%" />
-<hr>
+<p align="center">
+  
+</p>
+
 <h2>
   <strong>🖊️ Description</strong>
 </h2>
+
 <p>
   ✨ Full-stack developer specialized in not only web2 and hybrid mobile application development but also web3 development.
+  
   <ul>
-    <li>
-      Passionate crypto learner and creator of web3 projects such as De-fi, Game-fi, NFT
-    </li>
-    <li>
-      Experienced full-stack developer of web2 and mobile application development.
-    </li>
-    <li>Team contributor familiar with the agile and remote work culture</li>
+    <li>Passionate crypto learner and creator of web3 projects such as De-fi, Game-fi, NFT</li>
+    <li>Experienced full-stack developer of web2 and mobile application development.</li>
+    <li>Team contributor familiar with the agile and remote work culture.</li>
   </ul>
   
   <strong>🤔 Goals</strong>
+  
   <ul>
-    <li>
-      Contributor of <a href="https://github.com/meta-dev-org">Meta Dev Org</a> and <a href="https://github.com/pro-crypto-bots">Crypto Bots</a>
-    </li>
+    <li>Contributor of <a href="https://github.com/meta-dev-org">Meta Dev Org</a> and <a href="https://github.com/pro-crypto-bots">Crypto Bots</a></li>
     <li>I love reading book and learning new technologies and innovative ideas</li>
     <li>Enthusiastic contributor for open source code and non-profit projects</li>
   </ul>
@@ -33,7 +39,8 @@
     <li>Developing hybrid mobile application with a clean and attractive designs.</li>
   </ul>
 
-  <strong>⚡Specialization</strong>
+<strong>⚡Specialization</strong>
+
   <ul>
     <li>ERC-20, ERC-721, ERC-1155, EIP2535, SPL </li>
     <li>NFT marketplace, TokenSwap, wallets, bots for DEX and CEX</li>
@@ -180,19 +187,5 @@
   </tbody>
 </table>
 
-<!--
-**prodevcn/prodevcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👋
-- ✨
-  -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=prodevcn&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodevcn&hide=TeX&layout=compact)
