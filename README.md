@@ -7,45 +7,47 @@
   </strong>
 </h2>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=prodevcn&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodevcn&hide=TeX&layout=compact)
-  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=prodevcn&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodevcn&hide=TeX&layout=compact&theme=tokyonight)
+
 </p>
 
 <h2>
-  <strong>🖊️ Description</strong>
+  <strong>🔖 Description</strong>
 </h2>
 
 <p>
-  ✨ Full-stack developer specialized in not only web2 and hybrid mobile application development but also web3 development.
+  ✨ Full-stack developer with 10 years of hands-on development experience in web, mobile, and crypto fields.
   
   <ul>
-    <li>Passionate crypto learner and creator of web3 projects such as De-fi, Game-fi, NFT</li>
-    <li>Experienced full-stack developer of web2 and mobile application development.</li>
-    <li>Team contributor familiar with the agile and remote work culture.</li>
+    <li>Experienced full-stack developer of web and mobile application development.</li>
+    <li>Passionate web3 lover and creator of various products and solutions such as De-fi, Game-fi, and NFT.</li>
+    <li>Creative issue/block solver and a passionate learner of new technologies and innovative ideas.</li>
+    <li>Kind atmosphere maker while working in the team and an excellent contributor to discussion for strategies and risks.</li>
   </ul>
   
-  <strong>🤔 Goals</strong>
+  <strong>🎖️ Goals</strong>
   
   <ul>
-    <li>Contributor of <a href="https://github.com/meta-dev-org">Meta Dev Org</a> and <a href="https://github.com/pro-crypto-bots">Crypto Bots</a></li>
+    <li>Contributor of <a href="https://github.com/ignite-creative">Ignite Creative</a> and <a href="https://github.com/crypto-ignite">Crypto Ignite</a></li>
     <li>I love reading book and learning new technologies and innovative ideas</li>
     <li>Enthusiastic contributor for open source code and non-profit projects</li>
   </ul>
   
-  <strong>🔭Expertise</strong>
+  <strong>🛠️ Expertise</strong>
   <ul>
-    <li>Writing solidity smart contracts for EVM compatible chains and Rust program for Solana.</li>
     <li>Developing web front-end, back-end, and RESTful API</li>
-    <li>Developing hybrid mobile application with a clean and attractive designs.</li>
+    <li>Developing hybrid mobile applications with a clean and attractive designs.</li>
+    <li>Programming solidity and rust for smart contracts that would be deployed to EVM chains and the Solana network. </li>
   </ul>
 
-<strong>⚡Specialization</strong>
+<strong>🪄 Specialization</strong>
 
   <ul>
-    <li>ERC-20, ERC-721, ERC-1155, EIP2535, SPL </li>
-    <li>NFT marketplace, TokenSwap, wallets, bots for DEX and CEX</li>
-    <li>Hybrid mobile application built with React Native and Flutter</li>
+    <li>SPA frameworks (React, Angular, Vue)</li>
+    <li>React Native, Flutter, and Ionic development</li>
+    <li>RESTful API and microservice development</li>
+    <li>NFT marketplace, TokenSwap, wallets, trading bot development</li>
   </ul>
   
   <table width="100%" style="border: 1px solid">
@@ -75,6 +77,7 @@
          <td valign="top" style="border: 1px solid">
           <ul>
             <li>React</li>
+            <li>Angular</li>
             <li>Next</li>
             <li>Vue.js</li>
             <li>Electron</li>
@@ -101,6 +104,7 @@
             <li>Flutter</li>
             <li>Swift</li>
             <li>Android</li>
+            <li>Ionic</li>
           </ul>
         </td>
         <td PfanP
@@ -110,13 +114,117 @@
             <li>PostgreSQL</li>
             <li>MongoDB</li>
             <li>DynamoDB</li>
+            <li>AWS</li>
+            <li>Firebase</li>
+            <li>GCP</li>
           </ul>
         </td>
       </tr>
     </tbody>
   </table>
 </p>
-<h2><strong>🌱 Experiences</strong></h2>
+<h2><strong>🔖 Experiences</strong></h2>
+
+<h3><strong>🌐 Web</strong></h3>
+<table align="center" style="border: 1px solid">
+  <thead align="center">
+    <tr align="center">
+      <th align="center" style="border: 1px solid">APPICS</th>
+      <th align="center" style="border: 1px solid">Bumble</th>
+      <th align="center" style="border: 1px solid">Huddle Health</th>
+      <th align="center" style="border: 1px solid">Payeer</th>
+      <th align="center" style="border: 1px solid">Singlife</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td style="border: 1px solid">
+        <a href="https://appics.com/">
+          <img src="./img/web/appics_web.jpg" width="200">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://bumble.com/">
+          <img src="./img/web/bumble_web.jpg" width="200">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://huddle-health.com/">
+          <img src="./img/web/huddle_web.jpg" width="200">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://payeer.com/en/">
+          <img src="./img/web/payeer_web.jpg" width="200">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://singlife.com/en">
+          <img src="./img/web/singlife_web.jpg" width="200">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3><strong>📱 Mobile Apps</strong></h3>
+<table align="center" style="border: 1px solid">
+  <thead align="center">
+    <tr align="center">
+      <th align="center" style="border: 1px solid">APPICS</th>
+      <th align="center" style="border: 1px solid">Bordeaux</th>
+      <th align="center" style="border: 1px solid">Happy Fresh</th>
+      <th align="center" style="border: 1px solid">Huddle Health</th>
+      <th align="center" style="border: 1px solid">Payeer</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td style="border: 1px solid">
+        <a href="https://play.google.com/store/apps/details?id=com.appics.appics">
+          <img src="./img/mobile/appics/appics_mob_01.png" width="50">
+          <img src="./img/mobile/appics/appics_mob_02.png" width="50">
+          <img src="./img/mobile/appics/appics_mob_03.png" width="50">
+          <img src="./img/mobile/appics/appics_mob_04.png" width="50">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://play.google.com/store/apps/details?id=com.civb.oenobordeaux&hl=en&gl=US">
+          <img src="./img/mobile/bordeaux/bordeaux_mob_01.png" width="50">
+          <img src="./img/mobile/bordeaux/bordeaux_mob_02.png" width="50">
+          <img src="./img/mobile/bordeaux/bordeaux_mob_03.png" width="50">
+          <img src="./img/mobile/bordeaux/bordeaux_mob_04.png" width="50">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://play.google.com/store/apps/details?id=com.happyfresh.android&hl=en&gl=US">
+          <img src="./img/mobile/happy/happy_mob_01.png" width="50">
+          <img src="./img/mobile/happy/happy_mob_02.png" width="50">
+          <img src="./img/mobile/happy/happy_mob_03.png" width="50">
+          <img src="./img/mobile/happy/happy_mob_04.png" width="50">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://play.google.com/store/apps/details?id=com.huddlehealth&hl=en&gl=US">
+          <img src="./img/mobile/huddle/huddle_mob_01.png" width="50">
+          <img src="./img/mobile/huddle/huddle_mob_02.png" width="50">
+          <img src="./img/mobile/huddle/huddle_mob_03.png" width="50">
+          <img src="./img/mobile/huddle/huddle_mob_04.png" width="50">
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://play.google.com/store/apps/details?id=com.payeer&hl=en&gl=US">
+          <img src="./img/mobile/payeer/payeer_mob_01.png" width="50">
+          <img src="./img/mobile/payeer/payeer_mob_02.png" width="50">
+          <img src="./img/mobile/payeer/payeer_mob_03.png" width="50">
+          <img src="./img/mobile/payeer/payeer_mob_04.png" width="50">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3><strong>🪙 Crypto, Web3</strong></h3>
 
 <table align="center" style="border: 1px solid">
   <thead align="center">
@@ -131,22 +239,22 @@
     <tr>
       <td style="border: 1px solid">
         <a href="https://antmons.com/">
-          <img src="./img/antmons.jpg" width="200">
+          <img src="./img/web3/antmons.jpg" width="200">
         </a>
       </td>
       <td style="border: 1px solid">
         <a href="https://breadwinnersnft.io">
-          <img src="./img/breadwinner.jpg" width="200">
+          <img src="./img/web3/breadwinner.jpg" width="200">
         </a>
       </td>
       <td style="border: 1px solid">
         <a href="https://ez-nft.io/">
-          <img src="./img/ez.jpg" width="200">
+          <img src="./img/web3/ez.jpg" width="200">
         </a>
       </td>
       <td style="border: 1px solid">
         <a href="https://riotracers.com/">
-          <img src="./img/riot.jpg" width="200">
+          <img src="./img/web3/riot.jpg" width="200">
         </a>
       </td>
     </tr>
@@ -166,25 +274,24 @@
     <tr>
       <td style="border: 1px solid">
         <a href="https://robotos.art">
-          <img src="./img/robotos.jpg" width="200">
+          <img src="./img/web3/robotos.jpg" width="200">
         </a>
       </td>
       <td style="border: 1px solid">
         <a href="https://highrollersnft.com/">
-          <img src="./img/rollers.jpg" width="200">
+          <img src="./img/web3/rollers.jpg" width="200">
         </a>
       </td>
       <td style="border: 1px solid">
         <a href="https://spherium.finance/">
-          <img src="./img/spherium.jpg" width="200">
+          <img src="./img/web3/spherium.jpg" width="200">
         </a>
       </td>
       <td style="border: 1px solid">
         <a href="https://tiredtroop.io/">
-          <img src="./img/tired.jpg" width="200">
+          <img src="./img/web3/tired.jpg" width="200">
         </a>
       </td>
     </tr>
   </tbody>
 </table>
-
