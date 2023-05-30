@@ -3,7 +3,7 @@
 
 <h2 align="center">
   <strong>
-    🥷 Full stack software engineer (🔗blockchain / 🌐web / 📱mobile)
+    Full-stack Developer - Web • Mobile • Blockchain
   </strong>
 </h2>
 
@@ -12,19 +12,12 @@
 
 </p>
 
-<h2>
-  <strong>🔖 Description</strong>
-</h2>
+<h3>
+  <strong>🖋️ SUMMARY</strong>
+</h3>
 
 <p>
-  ✨ Full-stack developer with 10 years of hands-on development experience in web, mobile, and crypto fields.
-  
-  <ul>
-    <li>Experienced full-stack developer of web and mobile application development.</li>
-    <li>Passionate web3 lover and creator of various products and solutions such as De-fi, Game-fi, and NFT.</li>
-    <li>Creative issue/block solver and a passionate learner of new technologies and innovative ideas.</li>
-    <li>Kind atmosphere maker while working in the team and an excellent contributor to discussion for strategies and risks.</li>
-  </ul>
+  Experienced software engineer with experience in working with AGILE development methodologies such as Kanban and Scrum. I can work on projects in a team environment with our corporate partners, and at the same time, as an individual freelancer, I can work directly with clients in a private environment. I have a bachelor's degree in computer science and own the most in-demand programming skills in the job market. I can be described as a team player, adaptable, a challenge seeker, and a natural problem solver, and contribute to success based on strong communication and interpersonal skills.
   
   <strong>🎖️ Goals</strong>
   
