@@ -1,11 +1,21 @@
-[![Gmail Badge](https://img.shields.io/badge/-cn.corestar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cn.corestar@gmail.com)](mailto:cn.corestar@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/proengindev)](https://t.me/proengindev)
+<table width="100%" style="border: 1px solid">
+  <tbody>
+    <tr>
+      <td>
+        Experienced software engineer with experience in working with AGILE development methodologies such as Kanban and Scrum. I can work on projects in a team environment with our corporate partners, and at the same time, as an individual freelancer, I can work directly with clients in a private environment. I have a bachelor's degree in computer science and own the most in-demand programming skills in the job market. I can be described as a team player, adaptable, a challenge seeker, and a natural problem solver, and contribute to success based on strong communication and interpersonal skills.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<h2 align="center">
+<h1 align="center" style="font-family:'cursive'">
   <strong>
     Full-stack Developer - Web • Mobile • Blockchain
   </strong>
 </h2>
+
+[![Gmail Badge](https://img.shields.io/badge/-cn.corestar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cn.corestar@gmail.com)](mailto:cn.corestar@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/proengindev)](https://t.me/proengindev)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=prodevcn&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodevcn&hide=TeX&layout=compact&theme=tokyonight)
@@ -17,7 +27,8 @@
 </h3>
 
 <p>
-  Experienced software engineer with experience in working with AGILE development methodologies such as Kanban and Scrum. I can work on projects in a team environment with our corporate partners, and at the same time, as an individual freelancer, I can work directly with clients in a private environment. I have a bachelor's degree in computer science and own the most in-demand programming skills in the job market. I can be described as a team player, adaptable, a challenge seeker, and a natural problem solver, and contribute to success based on strong communication and interpersonal skills.
+  Experienced software engineer with experience in working with AGILE development methodologies such as Kanban and Scrum. I can work on projects in a team environment with our corporate partners, and at the same time, as an individual freelancer, I can work directly with clients in a private environment. I have a bachelor's degree in computer science and own the most in-demand programming skills in the job market. I can be described as a team player, adaptable, a challenge seeker, and a natural problem solver, and contribute to success based on strong communication and interpersonal skills. 
+</p>
   
   <strong>🎖️ Goals</strong>
   
