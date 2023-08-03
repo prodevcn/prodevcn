@@ -14,18 +14,10 @@
     </p>
   </ul>
 
-<h3><strong>📈 STATUS</strong></h3>
+<h3><strong>📈 STATS</strong></h3>
       
-![Github Stats](https://github-readme-stats.vercel.app/api?username=prodevcn&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodevcn&hide=TeX&layout=compact&theme=tokyonight)
 
-<h3><strong>🎖️ GOAL</strong></h3>
-  <ul>
-    <li>Contributor of <a href="https://github.com/ignite-creative">Ignite Creative</a> and <a href="https://github.com/crypto-ignite">Crypto Ignite</a></li>
-    <li>I love reading book and learning new technologies and innovative ideas</li>
-    <li>Enthusiastic contributor for open source code and non-profit projects</li>
-  </ul>
-  
 <h3><strong>🛠️ EXPERTISE</strong></h3>
   <ul>
     <li>Developing web front-end, back-end, and RESTful API</li>
@@ -58,21 +50,22 @@
       <tr>
         <td valign="top" style="border: 1px solid">
           <ul>
-            <li>JavaScript</li>
-            <li>TypeScript</li>
-            <li>Python</li>
-            <li>Rust</li>
             <li>Go</li>
-            <li>Solidity</li>
+            <li>JavaScript</li>
             <li>Java</li>
+            <li>Python</li>
+            <li>Ruby</li>
+            <li>Rust</li>
+            <li>Solidity</li>
             <li>Swift</li>
+            <li>TypeScript</li>
           </ul>
         </td>
          <td valign="top" style="border: 1px solid">
           <ul>
-            <li>React</li>
-            <li>Next</li>
             <li>Angular</li>
+            <li>React</li>
+            <li>Nextjs</li>
             <li>Vue.js</li>
             <li>Electron</li>
             <li>Svelte</li>
@@ -87,7 +80,7 @@
             <li>Laravel</li>
             <li>Django</li>
             <li>.NET</li>
-            <li>GraphQL</li>
+            <li>Rails</li>
           </ul>
         </td>
          <td valign="top" style="border: 1px solid">
